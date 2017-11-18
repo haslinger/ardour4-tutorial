@@ -3,6 +3,7 @@ description:      An updated version of the original FLOSS manual.
 reading_time:     true
 words_per_minute: 120
 url:              https://brunoruviaro.github.io/ardour4-tutorial
+url:              https://haslinger.github.io/ardour4-tutorial/
 
 owner:
   name:           Ardour 4 Tutorial
