@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
+ruby '2.4.2'
 
-gem 'jekyll'
-gem 'coderay'
-gem 'sass', '3.4.5'
-gem 'octopress', '~> 3.0.0.rc.12'
-gem 'jekyll-sitemap'
+gem 'jekyll', "~> 3.6.0"
+
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
+  gem 'jekyll-paginate'
+end
+
+gem 'sass'

@@ -1,0 +1,4 @@
+# use `jekyll serve --config _config.yml,_config.dev.yml --future` to be able to test and deploy
+# without changing config files
+
+url: http://localhost:4000

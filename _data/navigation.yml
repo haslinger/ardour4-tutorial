@@ -3,5 +3,5 @@
 - title: Contents
   url: https://brunoruviaro.github.io/ardour4-tutorial/tags
 
-#- title: External Link
- # url: http://mademistakes.com
+# Uncomment for testing in development
+# url: http://localhost:4000/tags
